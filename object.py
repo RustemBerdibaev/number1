@@ -1,0 +1,1 @@
+print("Assalawma a'leykum")
